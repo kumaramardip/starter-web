@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# line from local repo
-=======
 # changes from remote repo
 # one change from local repo
 # one new change
