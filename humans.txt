@@ -1,4 +1,12 @@
+<<<<<<< HEAD
 # line from local repo
+=======
+# changes from remote repo
+# one change from local repo
+# one new change
+# some changes
+# more changes
+>>>>>>> 2869361aacea803aec5ed22c8d9b559e78db9535
 # some new changes from web
 # humanstxt.org/
 # The humans responsible & technology colophon
