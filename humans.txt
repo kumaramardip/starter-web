@@ -1,7 +1,4 @@
-# one change from local repo
-# one new change
-# some changes
-# more changes
+# line from local repo
 # some new changes from web
 # humanstxt.org/
 # The humans responsible & technology colophon
